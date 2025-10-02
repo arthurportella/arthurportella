@@ -2,11 +2,11 @@
 
 <br>
 
-Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcados, IoT e Infraestrutura de TI**. Sou apaixonado por aplicar e expandir meus conhecimentos em ambientes corporativos e projetos desafiadores, buscando sempre criar soluções inovadoras. [cite: 6, 7]
+Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcados, IoT e Infraestrutura de TI**. Sou apaixonado por aplicar e expandir meus conhecimentos em ambientes corporativos e projetos desafiadores, buscando sempre criar soluções inovadoras.
 
-- [cite_start]👨‍💻 Atualmente desenvolvendo um projeto de comedouros automáticos com IoT na UFSM[cite: 9, 10].
-- [cite_start]☁️ Tenho experiência em suporte, administração de sistemas e Cloud, com certificação **AWS Cloud Practitioner**[cite: 6, 42].
-- [cite_start]📫 Como me encontrar: **arthur.portella@ecomp.ufsm.br** [cite: 3]
+- 👨‍💻 Atualmente desenvolvendo um projeto de comedouros automáticos com IoT na UFSM.
+- ☁️ Tenho experiência em suporte, administração de sistemas e Cloud, com certificação **AWS Cloud Practitioner**.
+- 📫 Como me encontrar: **arthur.portella@ecomp.ufsm.br**
 
 <br>
 
@@ -37,7 +37,7 @@ Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcad
       </p>
       <h3>Cloud & Virtualização</h3>
       <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https.img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
         <img src="https://img.shields.io/badge/Proxmox-E52A00?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </p>
@@ -73,13 +73,13 @@ Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcad
 ## 🚀 Projeto em Destaque
 
 ### 🐾 Comedouro Automático para Animais (IoT)
-[cite_start]Projeto acadêmico que estou desenvolvendo na UFSM desde março de 2025, focado na automação e monitoramento da alimentação de animais de forma individual[cite: 10, 11].
+Projeto acadêmico que estou desenvolvendo na UFSM desde março de 2025, focado na automação e monitoramento da alimentação de animais de forma individual.
 
-- [cite_start]**Lógica de Controle:** Desenvolvida em **Python** para gerenciar todo o ciclo de operação[cite: 12].
-- [cite_start]**Identificação:** Sistema de reconhecimento individual do animal usando tecnologia **RFID**[cite: 13].
-- [cite_start]**Monitoramento:** Medição precisa da ração com **células de carga** e detecção de presença com **sensores**[cite: 14, 15].
-- [cite_start]**Notificações:** Alertas em tempo real enviados para o usuário via **Telegram Bot API**[cite: 17].
-- [cite_start]**Plataforma:** Sistema implantado em ambiente **Linux embarcado** em uma **Raspberry Pi**[cite: 18].
+- **Lógica de Controle:** Desenvolvida em **Python** para gerenciar todo o ciclo de operação.
+- **Identificação:** Sistema de reconhecimento individual do animal usando tecnologia **RFID**.
+- **Monitoramento:** Medição precisa da ração com **células de carga** e detecção de presença com **sensores**.
+- **Notificações:** Alertas em tempo real enviados para o usuário via **Telegram Bot API**.
+- **Plataforma:** Sistema implantado em ambiente **Linux embarcado** em uma **Raspberry Pi**.
 
 <br>
 <p>
@@ -94,9 +94,9 @@ Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcad
 
 ## 📜 Certificações
 
-- [cite_start]**AWS Certified Cloud Practitioner** [cite: 42]
-- [cite_start]**Acronis:** Cloud Tech Associate (Advanced Management, Advanced Backup, Security + EDR, Disaster Recovery) [cite: 43]
-- [cite_start]**Huawei:** Cloud Computing & Inteligência Artificial [cite: 44, 45]
+- **AWS Certified Cloud Practitioner**
+- **Acronis:** Cloud Tech Associate (Advanced Management, Advanced Backup, Security + EDR, Disaster Recovery)
+- **Huawei:** Cloud Computing & Inteligência Artificial
 
 ---
 
