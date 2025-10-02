@@ -37,7 +37,7 @@ Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcad
       </p>
       <h3>Cloud & Virtualização</h3>
       <p>
-        <img src="https.img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
         <img src="https://img.shields.io/badge/Proxmox-E52A00?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </p>
