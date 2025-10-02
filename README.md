@@ -80,19 +80,3 @@ Estudante de Engenharia da Computação na UFSM e um entusiasta de tecnologia, a
     </td>
   </tr>
 </table>
-
-### 🚀 Meus Projetos em Destaque
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/arthurportella/comedouros-automaticos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurportella&repo=comedouros-automaticos&theme=tokyonight" />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/arthurportella/mips-vhdl">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurportella&repo=mips-vhdl&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
