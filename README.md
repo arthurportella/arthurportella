@@ -2,11 +2,11 @@
 
 <br>
 
-Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcados, IoT e Infraestrutura de TI**. Sou apaixonado por aplicar e expandir meus conhecimentos em ambientes corporativos e projetos desafiadores, buscando sempre criar soluções inovadoras.
+Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcados, IoT e Infraestrutura de TI**. Sou apaixonado por aplicar e expandir meus conhecimentos em ambientes corporativos e projetos desafiadores, buscando sempre criar soluções inovadoras. [cite: 6, 7]
 
-- 👨‍💻 Atualmente desenvolvendo um projeto de comedouros automáticos com IoT na UFSM.
-- ☁️ Tenho experiência em suporte, administração de sistemas e Cloud, com certificação **AWS Cloud Practitioner**.
-- 📫 Como me encontrar: **arthur.portella@ecomp.ufsm.br**
+- [cite_start]👨‍💻 Atualmente desenvolvendo um projeto de comedouros automáticos com IoT na UFSM[cite: 9, 10].
+- [cite_start]☁️ Tenho experiência em suporte, administração de sistemas e Cloud, com certificação **AWS Cloud Practitioner**[cite: 6, 42].
+- [cite_start]📫 Como me encontrar: **arthur.portella@ecomp.ufsm.br** [cite: 3]
 
 <br>
 
@@ -70,24 +70,16 @@ Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcad
 
 ---
 
-## 📜 Certificações
-
-- **AWS Certified Cloud Practitioner**
-- **Acronis:** Cloud Tech Associate Advanced (Management, Backup, Security + EDR, Disaster Recovery)
-- **Huawei:** Cloud Computing & Inteligência Artificial
-
----
-
 ## 🚀 Projeto em Destaque
 
 ### 🐾 Comedouro Automático para Animais (IoT)
-[cite_start]Projeto acadêmico que estou desenvolvendo na UFSM [cite: 10] [cite_start]desde março de 2025[cite: 11], focado na automação e monitoramento da alimentação de animais de forma individual.
+[cite_start]Projeto acadêmico que estou desenvolvendo na UFSM desde março de 2025, focado na automação e monitoramento da alimentação de animais de forma individual[cite: 10, 11].
 
-- [cite_start]**Lógica de Controle:** Desenvolvida em **Python** para gerenciar todo o ciclo de operação. [cite: 12]
-- [cite_start]**Identificação:** Sistema de reconhecimento individual do animal usando tecnologia **RFID**. [cite: 13]
-- [cite_start]**Monitoramento:** Medição precisa da ração com **células de carga** e detecção de presença com **sensores**. [cite: 14, 15]
-- [cite_start]**Notificações:** Alertas em tempo real enviados para o usuário via **Telegram Bot API**. [cite: 17]
-- [cite_start]**Plataforma:** Sistema implantado em ambiente **Linux embarcado** em uma **Raspberry Pi**. [cite: 18]
+- [cite_start]**Lógica de Controle:** Desenvolvida em **Python** para gerenciar todo o ciclo de operação[cite: 12].
+- [cite_start]**Identificação:** Sistema de reconhecimento individual do animal usando tecnologia **RFID**[cite: 13].
+- [cite_start]**Monitoramento:** Medição precisa da ração com **células de carga** e detecção de presença com **sensores**[cite: 14, 15].
+- [cite_start]**Notificações:** Alertas em tempo real enviados para o usuário via **Telegram Bot API**[cite: 17].
+- [cite_start]**Plataforma:** Sistema implantado em ambiente **Linux embarcado** em uma **Raspberry Pi**[cite: 18].
 
 <br>
 <p>
@@ -98,12 +90,16 @@ Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcad
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
+---
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurportella&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+## 📜 Certificações
 
+- [cite_start]**AWS Certified Cloud Practitioner** [cite: 42]
+- [cite_start]**Acronis:** Cloud Tech Associate (Advanced Management, Advanced Backup, Security + EDR, Disaster Recovery) [cite: 43]
+- [cite_start]**Huawei:** Cloud Computing & Inteligência Artificial [cite: 44, 45]
 
 ---
----
+
 ## 📊 Minhas Estatísticas no GitHub
 
 <table>
