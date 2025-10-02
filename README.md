@@ -99,16 +99,3 @@ Projeto acadêmico que estou desenvolvendo na UFSM desde março de 2025, focado 
 - **Huawei:** Cloud Computing & Inteligência Artificial
 
 ---
-
-## 📊 Minhas Estatísticas no GitHub
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=arthurportella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Arthur no GitHub" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurportella&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
-    </td>
-  </tr>
-</table>
