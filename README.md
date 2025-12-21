@@ -94,8 +94,20 @@ Projeto acadêmico que estou desenvolvendo na UFSM desde março de 2025, focado 
 
 ## 📜 Certificações
 
+### ☁️ Google Cloud Platform
+> *Conquistas recentes (Outubro 2025)*
+- [**Google Cloud Computing Foundations Certificate**](https://www.credly.com/badges/51b2bf6c-ecda-4fe3-ac81-ee92b5cc2ea6/public_url)
+- **Skill Badges (Prática):**
+  - [Build a Secure Google Cloud Network](https://www.credly.com/badges/e687ef2c-718a-4b7a-b57c-8c9b19e041b7/public_url)
+  - [Implement Load Balancing on Compute Engine](https://www.credly.com/badges/ae307cac-582a-4319-a795-2802321af75e/public_url)
+  - [Set Up an App Dev Environment on Google Cloud](https://www.credly.com/badges/9d6e0413-47ad-4500-a41a-624013f608e6/public_url)
+  - [Prepare Data for ML APIs on Google Cloud](https://www.credly.com/badges/39515359-4b40-424b-ad8e-208d826e608c/public_url)
+
+### 📦 Outras Certificações
 - **AWS Certified Cloud Practitioner**
-- **Acronis:** Cloud Tech Associate (Advanced Management, Advanced Backup, Security + EDR, Disaster Recovery)
+- **Acronis:** Cloud Tech Associate (Advanced Management, Backup, Security + EDR, Disaster Recovery)
 - **Huawei:** Cloud Computing & Inteligência Artificial
+
+---
 
 ---
