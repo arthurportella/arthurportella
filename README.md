@@ -1,5 +1,3 @@
-# Olá, eu sou o Arthur Portella! 👋
-
 <br>
 
 Estudante de Engenharia da Computação na UFSM, com foco em **Sistemas Embarcados, IoT e Infraestrutura de TI**. Sou apaixonado por aplicar e expandir meus conhecimentos em ambientes corporativos e projetos desafiadores, buscando sempre criar soluções inovadoras.
