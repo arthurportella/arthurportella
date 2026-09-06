@@ -8,6 +8,7 @@ Estudante de Engenharia da Computação na UFSM, com foco em Sistemas Embarcados
 📜 Certificações
 
 * ☁️ [Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/51b2bf6c-ecda-4fe3-ac81-ee92b5cc2ea6/public_url) — Out/2025, com 4 skill badges práticos (rede, load balancing, ambiente de dev, dados para ML)
+* ☁️ [Google Cloud Engineering Certificate](https://www.credly.com/earner/earned/badge/8e48a145-ffca-434f-bb98-1e51de34df3e) — Ago/2026, com 2 skill badges práticos (rede, infra com TerraForm)
 * 🅰️ AWS Certified Cloud Practitioner
 * 🔧 Acronis Cloud Tech Associate (Backup, Security + EDR, Disaster Recovery)
 * 🇨🇳 Huawei: Cloud Computing & Inteligência Artificial
